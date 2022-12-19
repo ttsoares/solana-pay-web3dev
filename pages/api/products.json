@@ -1,0 +1,36 @@
+[
+  {
+    "id": 0,
+    "name": "Velicovski 1",
+    "price": "0.09",
+    "description": "From Exodus to king Akhenatom",
+    "image_url": "https://4.bp.blogspot.com/-ZUZv2ws96Dc/XdgReqErrfI/AAAAAAAAHPA/RNIX4Thw-2ECQDydTMzwjTOLM-QYktXlACLcBGAsYHQ/s1600/1.jpg",
+    "filename": "0.png",
+    "hash": "QmRHKYYeJwtb6cdXP4YJ75byGjQUUhUsrt3fjisVVWkNj9"
+  },
+  {
+    "id": 1,
+    "name": "Velicovski 2",
+    "price": "0.09",
+    "description": "Ramses II and his Time",
+    "image_url": "https://3.bp.blogspot.com/-F-FvTEP5u80/W_kk4yiM1kI/AAAAAAAAQSs/imt_k-W_BeQ4nxj4PZ9_00YHrd8EKCeVACLcBGAs/s1600/46519893_2215251771852207_5585372048076570624_n.jpg",
+    "filename": "1.png",
+    "hash": "QmXLC8ucmKs4V7PCv3Wj9xooTmo8HUECW1D8Q6NU4frbaW"
+  },
+  {
+    "id": 2,
+    "name": "Velicovski 3",
+    "price": "0.09",
+    "description": "Peoples of the Sea",
+    "image_url": "https://weaponsandwarfare.files.wordpress.com/2020/04/erevrvf.jpg?w=584",
+    "filename": "2.png",
+    "hash": "QmbGLH8jiPXaZG4QSwWjF7TYmqoc5Af45ZiyJjzNVCruLs"
+  },
+  {
+    "id": 3,
+    "name": "Velikovsky Biography",
+    "price": "",
+    "image_url": "https://www.climate-policy-watcher.org/ancient-history/images/3588_1586676_60e80d9f2fba00311885931f84e3371a-velikovsky-and-the-solar-system.jpg",
+    "description": "Dr. Immanuel Velikovsky was one of the greatest scientists of modern times. "
+  }
+]
